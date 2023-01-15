@@ -2,15 +2,19 @@
 
 ## Install
 
+React  --  npx react-create-app <name>
+
 ## Issues
+
+Application not complete due to time.  Due 1/15/2023
 
 ## Links
 
-GitHub
+GitHub- https://github.com/Gtimed61
 
-GitHub Repo-
+GitHub Repo- https://github.com/Gtimed61/react-portfolio
 
-Deployed-
+Deployed-  not deployed successfully.
 
 
 
